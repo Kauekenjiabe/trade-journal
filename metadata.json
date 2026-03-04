@@ -1,0 +1,5 @@
+{
+  "name": "Yen/Real Trade Journal",
+  "description": "A daily trade journal with JPY base currency and BRL toggle view.",
+  "requestFramePermissions": []
+}
